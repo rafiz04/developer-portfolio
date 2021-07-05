@@ -42,3 +42,23 @@ strong{
     background-repeat: no-repeat;
     background-position: right;
 }
+.flexible-container{
+    display:flex;
+}
+.box-shadow{
+    box-shadow:gray 10px 10px 40px ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-left: 5px orange solid;  
+}
+.export{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#web-devlop{
+    border-image: linear-gradient(blue , red);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+
