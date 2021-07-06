@@ -55,6 +55,7 @@ strong{
 .export{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 #web-devlop{
     border-image: linear-gradient(blue , red);
